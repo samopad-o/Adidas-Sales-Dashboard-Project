@@ -32,5 +32,45 @@ Before visualizing the data, I performed the following crucial cleaning steps in
 ## Charts & Visualizations
 The dashboard include the following visuals, all designed with a consistent aesthetic using different shades of gray to align with the Adidas brand theme:
 1.  **Total Sales by Product Category** (Bar Chart)
-   ![Total Sales by Product Category](https://github.com/samopad-o/Adidas-Sales-Dashboard-Project/blob/main/total%20sales%20by%20product.png)
-3. 
+
+
+![Total Sales by Product Category](https://github.com/samopad-o/Adidas-Sales-Dashboard-Project/blob/main/total%20sales%20by%20product.png)
+
+
+2. **Monthly Sales Trend** (Line Chart)
+
+
+![Monthly Sales Trend](https://github.com/samopad-o/Adidas-Sales-Dashboard-Project/blob/main/monthly%20sales%20trend.png)
+
+
+3. **Total Sales by Sales Method** (Pie Chart)
+
+
+ ![Total Sales by Sales Method](https://github.com/samopad-o/Adidas-Sales-Dashboard-Project/blob/main/sales%20by%20sales%20method.png)
+
+ 
+4. **Total Sales by Region** (Column Chart)
+
+
+ ![Total Sales by Region](https://github.com/samopad-o/Adidas-Sales-Dashboard-Project/blob/main/total%20sales%20by%20region.png)
+
+ 
+5. **Total Sales by Retailers** (Bar Chart)
+
+
+ ![Total Sales by Retailers](https://github.com/samopad-o/Adidas-Sales-Dashboard-Project/blob/main/total%20sales%20by%20retailers.png)
+
+ 
+6. **Average Operating Margin** (Doughnut Chart)
+
+
+ ![Average Operating Margin](https://github.com/samopad-o/Adidas-Sales-Dashboard-Project/blob/main/avgoperatingmargin.png)
+
+ 
+7. **Top City by Sales** (Column Chart)
+
+
+ ![Top City by Sales](https://github.com/samopad-o/Adidas-Sales-Dashboard-Project/blob/main/total%20city%20by%20sales.png)
+
+
+ 
