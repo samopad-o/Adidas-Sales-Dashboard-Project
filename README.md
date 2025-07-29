@@ -32,4 +32,5 @@ Before visualizing the data, I performed the following crucial cleaning steps in
 ## Charts & Visualizations
 The dashboard include the following visuals, all designed with a consistent aesthetic using different shades of gray to align with the Adidas brand theme:
 1.  **Total Sales by Product Category** (Bar Chart)
+ ![Total Sales by Product Category Bar Chart](images/total_sales_by_product_category.png) *(Placeholder for your image)*
    
