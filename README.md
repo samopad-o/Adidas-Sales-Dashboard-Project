@@ -72,5 +72,30 @@ The dashboard include the following visuals, all designed with a consistent aest
 
  ![Top City by Sales](https://github.com/samopad-o/Adidas-Sales-Dashboard-Project/blob/main/total%20city%20by%20sales.png)
 
+## Dashboard Overview
+I built a fully interactive Excel dashboard, combining all the charts into a single, cohesive view. Key features of the dashboard include:
+* Clean Layout with consistent margins and spacing.
+* Clear Typography and precise design alignment for enhanced readability.
+* Harmonized Background Color & Branding.
+* Integrated Slicers for dynamic filtering by various dimensions.
+## Dashboard Preview
 
- 
+
+![Adidas Sales Dashboard Preview](https://github.com/samopad-o/Adidas-Sales-Dashboard-Project/blob/main/adidas.png)
+
+## Tools Used
+* Microsoft Excel: Utilized extensively for Data Cleaning, Analysis, and Dashboard creation.
+* Adobe Color: Employed for selecting a brand-consistent color theme.
+## Files Included
+* [Adidas US Sales Datasets](https://github.com/samopad-o/Adidas-Sales-Dashboard-Project/blob/main/Adidas%20US%20Sales%20Datasets.xlsx)
+## Insights
+The dashboard provided several key insights:
+* Certain product categories and regions consistently outperformed others, highlighting areas of strength.
+* There were clear trends in monthly sales, which could be crucial for future planning and targeted marketing campaigns.
+* A detailed breakdown of sales methods offered valuable clues on the primary revenue streams and potential areas for channel optimization.
+## What I Learned
+This project was a significant learning experience, allowing me to master:
+* How to effectively clean and structure messy raw data for analysis.
+* The power of slicers to create dynamic and interactive reporting.
+* The principles of designing clean dashboards with consistent formatting and strong visual communication.
+* That Excel can be a powerful and enjoyable tool for data analysis and visualization once its capabilities are fully explored.
